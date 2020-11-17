@@ -1,0 +1,7 @@
+**.orig
+*.gem
+*.rbc
+._*
+.AppleDouble
+.DS_Store
+.LSOverride
